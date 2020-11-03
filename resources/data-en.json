@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Atlas Shrugged",
+    "author": "Ayn Rand",
+    "genre": "fiction",
+    "description": "The book depicts a dystopian United States in which private businesses suffer under increasingly burdensome laws and regulations. Railroad executive Dagny Taggart and her lover, steel magnate Hank Rearden, struggle against looters who want to exploit their productivity. Dagny and Hank discover that a mysterious figure called John Galt is persuading other business leaders to abandon their companies and disappear as a strike of productive individuals against the looters. The novel ends with the strikers planning to build a new capitalist society based on Galt's philosophy of reason and individualism.",
+    "image": "a1",
+    "video": "atlasshrugged"
+  },
+  {
+    "name": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "genre": "novel",
+    "description": "A complex novel in eight parts, with more than a dozen major characters, it is spread over more than 800 pages (depending on the translation and publisher), typically contained in two volumes. It deals with themes of betrayal, faith, family, marriage, Imperial Russian society, desire, and rural vs. city life. The plot centers on an extramarital affair between Anna and dashing cavalry officer Count Alexei Kirillovich Vronsky that scandalizes the social circles of Saint Petersburg and forces the young lovers to flee to Italy in a search for happiness. Returning to Russia, their lives further unravel.",
+    "image": "a2",
+    "video": null
+  },
+  {
+    "name": "The Colour of Magic",
+    "author": "Terry Pratchett",
+    "genre": "fantasy",
+    "description": "The story begins in Ankh-Morpork, the biggest city on the Discworld. The main character is an incompetent and cynical wizard named Rincewind, who is hired as a guide to naive Twoflower, an insurance clerk from the Agatean Empire who has come to visit Ankh-Morpork. Thanks to the commonality of gold in his homeland, Twoflower, though only a clerk, is rich compared to inhabitants of Ankh-Morpork. Initially attempting to flee with his advance payment for agreeing to be Twoflower's guide, Rincewind is captured by the Patrician of Ankh-Morpork, who forces him to protect Twoflower, lest the tourist's death provoke the Agatean Emperor into invading Ankh-Morpork. After Twoflower is kidnapped by a gang of thieves and taken to the Broken Drum tavern, Rincewind stages a rescue alongside the Luggage, an indestructible, enchanted and sentient chest belonging to Twoflower. Before this, Twoflower convinces the Broken Drum's landlord to take out a fire insurance policy; the landlord subsequently attempts to burn down the tavern to claim the money, but ends up causing a fire that destroys the whole of Ankh-Morpork. Rincewind and Twoflower escape in the chaos.",
+    "image": "a3",
+    "video": null
+  },
+  {
+    "name": "Foucault's Pendulum",
+    "author": "Umberto Eco",
+    "genre": "fiction",
+    "description": "Foucault's Pendulum is divided into ten segments represented by the ten Sefiroth. The satirical novel is full of esoteric references to Kabbalah, alchemy, and conspiracy theory—so many that critic and novelist Anthony Burgess suggested that it needed an index. The pendulum of the title refers to an actual pendulum designed by French physicist Léon Foucault to demonstrate Earth's rotation, which has symbolic significance within the novel. Some believe that it refers to Michel Foucault, noting Eco's friendship with the French philosopher, but the author specifically rejects any intentional reference to Michel Foucault—this is regarded as one of his subtle literary jokes.",
+    "image": null,
+    "video": null
+  },
+  {
+    "name": "Father Goriot",
+    "author": "Honoré de Balzac",
+    "genre": "novel",
+    "description": "The novel opens with an extended description of the Maison Vauquer, a boarding house in Paris' rue Neuve-Sainte-Geneviève covered with vines, owned by the widow Madame Vauquer. The residents include the law student Eugène de Rastignac, a mysterious agitator named Vautrin, and an elderly retired vermicelli-maker named Jean-Joachim Goriot. The old man is ridiculed frequently by the other boarders, who soon learn that he has bankrupted himself to support his two well-married daughters.",
+    "image": "a",
+    "video": null
+  },
+  {
+    "name": "Gone with the Wind",
+    "author": "Margaret Mitchell",
+    "genre": "fiction",
+    "description": "Gone with the Wind takes place in the southern United States in the state of Georgia during the American Civil War (1861–1865) and the Reconstruction Era (1865–1877). The novel unfolds against the backdrop of rebellion seven southern states initially, including Georgia, have declared their secession from the United States and formed the Confederate States of America, after Abraham Lincoln was elected president. The Union refuses to accept secession and no compromise is found as war approaches.",
+    "image": "a4",
+    "video": null
+  },
+  {
+    "name": "Tess of the d'Urbervilles: A Pure Woman Faithfully Presente",
+    "author": "Thomas Hardy",
+    "genre": "novel",
+    "description": "The novel is set in impoverished rural England, Thomas Hardy's fictional Wessex, during the Long Depression of the 1870s. Tess is the oldest child of John and Joan Durbeyfield, uneducated peasants. However, John is given the impression by Parson Tringham that he may have noble blood, as Durbeyfield is a corruption of d'Urberville, the surname of an extinct noble Norman family. Knowledge of this immediately goes to John's head.",
+    "image": "a5",
+    "video": null
+  },
+  {
+    "name": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "genre": "novel",
+    "description": "In 1801, Lockwood, a wealthy young man from the south of England, who is seeking peace and recuperation, rents Thrushcross Grange in Yorkshire. He visits his landlord, Heathcliff, who lives in a remote moorland farmhouse, Wuthering Heights. There, Lockwood finds an odd assemblage: Heathcliff, who seems to be a gentleman, but whose manners are uncouth; the reserved mistress of the house, who is in her mid-teens; Joseph, a cantankerous old servant of Heathcliff's; and a young man who seems to be a member of the family, yet dresses and speaks as if he were a servant.",
+    "image": null,
+    "video": null
+  },
+  {
+    "name": "The Master and Margarita",
+    "author": "Mikhail Bulgakov",
+    "genre": "fantasy",
+    "description": "The story concerns a visit by the devil to the officially atheistic Soviet Union. The Master and Margarita combines supernatural elements with satirical dark comedy and Christian philosophy, defying a singular genre. Many critics consider it to be one of the best novels of the 20th century, as well as the foremost of Soviet satires.",
+    "image": "a6",
+    "video": null
+  },
+  {
+    "name": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "novel",
+    "description": "The novel is set in rural England in the early 19th century. Mrs Bennet attempts to persuade Mr Bennet to visit Mr Bingley, a rich bachelor recently arrived in the neighbourhood. After some verbal sparring with her husband, Mrs Bennet believes he will not call on Mr Bingley. Shortly after, he visits Netherfield, Mr Bingley's rented residence, much to Mrs Bennet's delight. The visit is followed by an invitation to a ball at the local assembly rooms that the entire neighbourhood will attend. At the ball, Mr Bingley's friendly and cheerful manner makes him popular with guests. He appears attracted to Jane Bennet (the Bennets' eldest daughter), with whom he dances twice. Bingley's friend, Mr Darcy, reputed to be twice as wealthy, is haughty and aloof, causing a decided dislike of him. He declines to dance with Elizabeth (the Bennets' second eldest daughter), stating she is not attractive enough to tempt him.[5] Elizabeth finds this amusing and jokes about it with her sisters.",
+    "image": "a7",
+    "video": null
+  },
+  {
+    "name": "Of Human Bondage",
+    "author": "W. Somerset Maugham",
+    "genre": "novel",
+    "description": "The book begins with the death of Helen Carey, the much beloved mother of nine-year-old Philip Carey. Philip has a club foot and his father had died a few months before. Now orphaned, he is sent to live with his aunt and uncle, Louisa and William Carey. Early chapters relate Philip's experiences at his uncle's vicarage. Aunt Louisa tries to be a mother to Philip, but his uncle is coldly disposed towards him. Philip's uncle has a vast collection of books, and Philip enjoys reading to find ways to escape his mundane existence. Less than a year later, Philip is sent to a boarding school. His uncle and aunt wish for him to eventually attend Oxford. Philip's disability and sensitive nature make it difficult for him to fit in with the other students. Philip is informed that he could have earned a scholarship for Oxford, which both his uncle and school headmaster see as a wise course, but Philip insists on going to Germany.",
+    "image": "a8",
+    "video": null
+  },
+  {
+    "name": "The Thorn Birds",
+    "author": "Colleen McCullough",
+    "genre": "novel",
+    "description": "There is a legend about a bird which sings just once in its life, more sweetly than any other creature on the face of the earth. From the moment it leaves the nest it searches for a thorn tree, and does not rest until it has found one. Then, singing among the savage branches, it impales itself upon the longest, sharpest spine. And, dying, it rises above its own agony to out-carol the lark and the nightingale. One superlative song, existence the price. But the whole world stills to listen, and God in His heaven smiles. For the best is only bought at the cost of great pain.... Or so says the legend.",
+    "image": null,
+    "video": null
+  },
+  {
+    "name": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "genre": "novel",
+    "description": "On the day of his wedding to Mercédès, Edmond Dantès, first mate of the Pharaon, is incorrectly accused of treason, arrested, and imprisoned without trial in the Château d'If, a grim island fortress off Marseille. A fellow prisoner, Abbé Faria, correctly deduces that his jealous rival Fernand Mondego, envious crewmate Danglars, and double-dealing magistrate De Villefort turned him in. Faria inspires his escape and guides him to a fortune in treasure. As the powerful and mysterious Count of Monte Cristo (Italy), he arrives from the Orient to enter the fashionable Parisian world of the 1830s and avenge himself on the men who conspired to destroy him.",
+    "image": "a9",
+    "video": null
+  },
+  {
+    "name": "Monday Begins on Saturday",
+    "author": "Boris and Arkady Strugatsky",
+    "genre": "fiction",
+    "description": "The Scientific Research Institute of Sorcery and Wizardry (or, in Andrew Bromfield's 2002 translation the National Institute for the Technology of Witchcraft and Thaumaturgy, abbreviated to NITWITT), located in the fictional Northern Russian town of Solovets, is portrayed as a place where everyone either work diligently, or else their loss of honesty is symbolized by their ears becoming more and more hairy. These hairy-eared people are viewed with disdain by the idealistic scientists. The more morally backward specimen are the most self-aggrandizing and sure of their own significance, while conducting the more ridiculous and nonsensical pseudo-research, to justify their position.",
+    "image": "a10",
+    "video": null
+  },
+  {
+    "name": "Scarlet Sails",
+    "author": "Alexander Green",
+    "genre": "fairytale",
+    "description": "Extravaganza tells the story of the girl Assol, who lost her mother when she was only eight months old. Assol lived in the village of Caperna with her father, the sailor Longren. Father, a reserved and unsociable person, after retirement he began to make and sell toys - skillfully made models of sailing ships and steamboats in order to earn a living for himself and his little daughter. Fellow countrymen did not really like the former sailor, especially after one incident. Once, during a severe storm, the local shopkeeper and innkeeper Menners was carried away in his boat far into the sea. The only witness to this was Longren. He calmly smoked a pipe on the pier, watching Menners call to him in vain. Only when it became apparent that he could no longer be saved, Longren shouted to him that in the same way, Mary asked his fellow villager for help, but did not receive it.",
+    "image": "a11",
+    "video": null
+  },
+  {
+    "name": "Les Misérables",
+    "author": "Victor Hugo",
+    "genre": "novel",
+    "description": "The story begins in 1815 in Digne, as the peasant Jean Valjean, just released from 19 years' imprisonment in the Bagne of Toulon—five for stealing bread for his starving sister and her family and fourteen more for numerous escape attempts—is turned away by innkeepers because his yellow passport marks him as a former convict. He sleeps on the street, angry and bitter. Digne's benevolent Bishop Myriel gives him shelter. At night, Valjean runs off with Myriel's silverware. When the police capture Valjean, Myriel pretends that he has given the silverware to Valjean and presses him to take two silver candlesticks as well, as if he had forgotten to take them. The police accept his explanation and leave. Myriel tells Valjean that his life has been spared for God, and that he should use money from the silver candlesticks to make an honest man of himself.",
+    "image": null,
+    "video": null
+  }
+]
